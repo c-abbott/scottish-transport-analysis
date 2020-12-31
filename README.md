@@ -39,3 +39,7 @@ The remaining columns all contain the observed number of vehicles for different 
 | `hgvs_2_rigid_axle`, `hgvs_3_rigid_axle`,<br /> `hgvs_3_or_4_articulated_axle`,`hgvs_4_or_more_rigid_axle`,<br /> `hgvs_5_articulated_axle`, `hgvs_6_articulated_axle` |  Different kinds/sizes of heavy good vehicles (e.g. trucks, lorries) |
 | `all_hgvs` | All heavy good vehicles combined |
 | `all_motor_vehicles` | All motor vehicles combined (so all of the above, except cycles) |
+
+# 📊 Results
+Here we give a snippet of one of the visualizations we were able to generate using the DfT data.
+![](images/distribution.png)
